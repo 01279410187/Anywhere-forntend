@@ -1,46 +1,41 @@
-# Getting Started with Create React App
+ Anyware Software (Fullstack Challenge)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Home Page
+![12](https://github.com/user-attachments/assets/aef8b562-99c6-435f-a7eb-3286d3631b68)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+Dashboard Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Screenshot_2025_05_16-1](https://github.com/user-attachments/assets/1486d214-d3e2-4765-b78f-ad26b3822fde)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+Announcements Page
+![Screenshot_2025_05_16-2](https://github.com/user-attachments/assets/54e09398-ae81-4ef9-ac6e-1e1e6c52ecb1)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Add Announcements
 
-### `npm run build`
+![Screenshot_2025_05_16-3](https://github.com/user-attachments/assets/cae39cf7-29d1-423f-a43d-9f6a15974886)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Edit Announcements
+![Screenshot_2025_05_16-4](https://github.com/user-attachments/assets/b37f386c-067a-4ac5-93e9-25dab52f7af0)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Delete Announcements
+![Screenshot_2025_05_16-5](https://github.com/user-attachments/assets/1b190234-12b8-430f-be9a-d1368d5fd058)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+And Same For Quiz
 
-### `npm run eject`
+For installation :
+First, clone this git Repository.
+Second, clone the backend Repository: https://github.com/01279410187/Anywhere-backend.git
+After the Clone Backend project, run this command in the terminal: npm install
+After installing dependencies, run this command to start the server: npm run dev
+If you want to test the server, run this command: npm test 
+After all of this, clone this Repository 
+And run this command: npm install
+After installing dependencies, run this command to start the server: npm start
+To Start Fronted
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
