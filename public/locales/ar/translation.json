@@ -1,0 +1,75 @@
+{
+  "app": {
+    "name": "كوليغو",
+    "welcome": "مرحبًا {{name}}،"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "schedule": "الجدول",
+    "courses": "الدورات",
+    "gradebook": "سجل الدرجات",
+    "performance": "الأداء",
+    "announcement": "الإعلانات",
+    "quizzes": "الاختبارات"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "logout": "تسجيل الخروج"
+  },
+  "dashboard": {
+    "examsTime": "وقت الامتحانات",
+    "examsDesc": "ها نحن ذا. هل أنت مستعد للمواجهة؟ لا تقلق، لقد أعددنا لك بعض النصائح لتكون جاهزًا لامتحاناتك.",
+    "einsteinQuote": "\"لا يحدث شيء حتى يتحرك شيء ما\" - ألبرت أينشتاين",
+    "viewExamsTips": "عرض نصائح الامتحانات"
+  },
+  "announcements": {
+    "title": "الإعلانات",
+    "add": "إضافة إعلان",
+    "edit": "تعديل الإعلان",
+    "author": "الكاتب",
+    "course": "الدورة",
+    "content": "المحتوى",
+    "actions": "الإجراءات",
+    "all": "الكل",
+    "addSuccess": "تمت إضافة الإعلان بنجاح",
+    "updateSuccess": "تم تحديث الإعلان بنجاح",
+    "deleteSuccess": "تم حذف الإعلان بنجاح",
+    "deleteError": "فشل في حذف الإعلان",
+    "operationError": "فشلت العملية، يرجى المحاولة مرة أخرى",
+    "confirmDeleteTitle": "تأكيد الحذف",
+    "confirmDelete": "هل أنت متأكد أنك تريد حذف هذا الإعلان؟"
+  },
+  "quizzes": {
+    "title": "الاختبارات",
+    "add": "إضافة اختبار",
+    "edit": "تعديل الاختبار",
+    "description": "الوصف",
+    "course": "الدورة",
+    "topic": "الموضوع",
+    "dueDate": "تاريخ الاستحقاق",
+    "type": "النوع",
+    "startQuiz": "بدء الاختبار",
+    "solveAssignment": "حل الواجب",
+    "dueTo": "تاريخ التسليم",
+    "types": {
+      "practice": "تدريبي",
+      "graded": "مقَيم"
+    },
+    "contact": "تواصل",
+    "actions": "الإجراءات",
+    "confirmDeleteTitle": "حذف الاختبار",
+    "confirmDelete": "هل أنت متأكد أنك تريد حذف هذا الاختبار؟",
+    "addSuccess": "تمت إضافة الاختبار بنجاح",
+    "updateSuccess": "تم تحديث الاختبار بنجاح",
+    "deleteSuccess": "تم حذف الاختبار بنجاح",
+    "deleteError": "فشل في حذف الاختبار",
+    "operationError": "فشلت العملية، يرجى المحاولة مرة أخرى",
+    "all": "الكل"
+  },
+  "common": {
+    "save": "حفظ",
+    "update": "تحديث",
+    "cancel": "إلغاء",
+    "delete": "حذف"
+  }
+}

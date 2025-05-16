@@ -1,0 +1,75 @@
+{
+  "app": {
+    "name": "Coligo",
+    "welcome": "Welcome {{name}},"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "schedule": "Schedule",
+    "courses": "Courses",
+    "gradebook": "Gradebook",
+    "performance": "Performance",
+    "announcement": "Announcement",
+    "quizzes":"Quizes"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "examsTime": "EXAMS TIME",
+    "examsDesc": "Here we are. Are you ready to fight? Don't worry, we prepared some tips to be ready for your exams.",
+    "einsteinQuote": "\"Nothing happens until something moves\" - Albert Einstein",
+    "viewExamsTips": "View exams tips"
+  },
+  "announcements": {
+    "title": "Announcements",
+    "add": "Add Announcement",
+    "edit": "Edit Announcement",
+    "author": "Author",
+    "course": "Course",
+    "content": "Content",
+    "actions": "Actions",
+    "all": "All",
+    "addSuccess": "Announcement added successfully",
+    "updateSuccess": "Announcement updated successfully",
+    "deleteSuccess": "Announcement deleted successfully",
+    "deleteError": "Failed to delete announcement",
+    "operationError": "Operation failed, please try again",
+    "confirmDeleteTitle": "Confirm Deletion",
+    "confirmDelete": "Are you sure you want to delete this announcement?"
+  },
+  "quizzes": {
+    "title": "Quizzes",
+    "add": "Add Quiz",
+    "edit": "Edit Quiz",
+    "description": "Description",
+    "course": "Course",
+    "topic": "Topic",
+    "dueDate": "Due Date",
+    "type": "Type",
+     "startQuiz": "Start Quiz",
+    "solveAssignment": "Solve Assignment",
+    "dueTo": " ",
+    "types": {
+      "practice": "Practice",
+      "graded": "Graded"
+    },
+    "contact":"contact",
+    "actions": "Actions",
+    "confirmDeleteTitle": "Delete Quiz",
+    "confirmDelete": "Are you sure you want to delete this quiz?",
+    "addSuccess": "Quiz added successfully",
+    "updateSuccess": "Quiz updated successfully",
+    "deleteSuccess": "Quiz deleted successfully",
+    "deleteError": "Failed to delete quiz",
+    "operationError": "Operation failed, please try again",
+    "all":"All"
+  },
+  "common": {
+    "save": "Save",
+    "update": "Update",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  }
+}
